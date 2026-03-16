@@ -1,20 +1,20 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🤖 Hey D: An AI Assistant for Dip
 
-# Run and deploy your AI Studio app
+Hey D is a voice-activated assistant built for Android and Web, powered by **Google Gemini 1.5 Flash**.
 
-This contains everything you need to run your app locally.
+## 🌐 Live Web Demo
+You can try the web version here: 
+[https://ais-pre-y2az7h3f3bkufp77aso5ve-164018652610.asia-southeast1.run.app](https://ais-pre-y2az7h3f3bkufp77aso5ve-164018652610.asia-southeast1.run.app)
 
-View your app in AI Studio: https://ai.studio/apps/b4c17049-a840-4eab-87e9-a4ab1f7b3b79
+## 📱 Mobile Setup (Android)
+To run this on your phone:
+1. Install **Pydroid 3** from the Play Store.
+2. Download `hey_d_assistant.py` and `requirements.txt`.
+3. In Pydroid 3, go to **Pip** and install the requirements.
+4. Add your **API Key** to the script.
+5. Press **Play**!
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ Tech Stack
+- **Language:** Python & TypeScript
+- **AI Model:** Gemini 1.5 Flash
+- **Deployment:** Google Cloud Run (via AI Studio)
