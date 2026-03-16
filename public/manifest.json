@@ -1,0 +1,17 @@
+{
+  "name": "Hey D Assistant",
+  "short_name": "Hey D",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a050f",
+  "theme_color": "#8b5cf6",
+  "description": "Your personal AI voice assistant.",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/shapes/svg?seed=HeyD&backgroundColor=8b5cf6",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

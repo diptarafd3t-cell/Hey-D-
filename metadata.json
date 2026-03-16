@@ -1,0 +1,5 @@
+{
+  "name": "Hey D Voice Assistant",
+  "description": "A smart, web-based voice assistant that listens to your commands, searches the web, and speaks back to you. Installable as a PWA.",
+  "requestFramePermissions": ["microphone"]
+}
